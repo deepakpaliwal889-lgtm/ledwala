@@ -1,0 +1,6 @@
+{
+  "name": "Gama LED",
+  "description": "Gama LED website and product showcase featuring high-definition indoor and outdoor LED displays, rental series, and digital signage solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
